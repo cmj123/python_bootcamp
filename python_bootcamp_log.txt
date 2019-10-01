@@ -1,3 +1,5 @@
 Python Bootcamp Log
-01 - 100 % of Section 08 - Object Oriented Programming.
-02 - 0% of section 09 - Modules and Packages
+2019-09-30 01 - 100 % of Section 08 - Object Oriented Programming.
+2019-09-30 02 - 0% of section 09 - Modules and Packages
+2019-10-01 03 - 100% of section 09 - Modules and Packages
+2019-10-01 04 - 0% of section 10 - Errors and Exceptions Handling.
